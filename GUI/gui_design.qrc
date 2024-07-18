@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="design">
+    <file>design/ptr1.png</file>
+    <file>design/ptr2.png</file>
+    <file>design/ptr3.png</file>
+    <file>design/ptr4.png</file>
+    <file>design/ptr5.png</file>
+    <file>design/ptr6.png</file>
+    <file>design/setting_page.png</file>
+    <file>design/find_page.png</file>
+    <file>design/join_page.png</file>
+    <file>design/type_page_carhorn.png</file>
+    <file>design/type_page_dogbark.png</file>
+    <file>design/type_page_firealarm.png</file>
+    <file>design/개.png</file>
+    <file>design/불.png</file>
+    <file>design/차.png</file>
+    <file>design/찾기.png</file>
+    <file>design/확인.png</file>
+    <file>design/개.png</file>
+    <file>design/배경.png</file>
+    <file>design/불.png</file>
+    <file>design/설정.png</file>
+    <file>design/이전.png</file>
+    <file>design/차.png</file>
+    <file>design/투명.png</file>
+    <file>design/로그인.png</file>
+    <file>design/로그인창.png</file>
+    <file>design/메인창.png</file>
+    <file>design/설정.png</file>
+    <file>design/아이디찾기.png</file>
+    <file>design/회원가입.png</file>
+  </qresource>
+</RCC>

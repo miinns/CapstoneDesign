@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>main</class>
+ <widget class="QWidget" name="main">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>580</width>
+    <height>454</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/design/design/메인창.png);</string>
+  </property>
+  <widget class="QPushButton" name="setting_button">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>330</y>
+     <width>91</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/design/design/설정.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="gui_design.qrc"/>
+  <include location="gui_design.qrc"/>
+ </resources>
+ <connections/>
+ <slots>
+  <slot>setting_page()</slot>
+ </slots>
+</ui>

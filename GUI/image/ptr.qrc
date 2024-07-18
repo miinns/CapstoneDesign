@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="ptr0">
+    <file>ptr0.png</file>
+  </qresource>
+  <qresource prefix="ptr5">
+    <file>ptr5.png</file>
+  </qresource>
+  <qresource prefix="ptr4">
+    <file>ptr4.png</file>
+  </qresource>
+  <qresource prefix="ptr3">
+    <file>ptr3.png</file>
+  </qresource>
+  <qresource prefix="ptr2">
+    <file>ptr2.png</file>
+  </qresource>
+  <qresource prefix="ptr1">
+    <file>ptr1.png</file>
+  </qresource>
+</RCC>
